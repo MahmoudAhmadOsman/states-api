@@ -1,0 +1,49 @@
+{"states": [{
+  "banadir": {
+      "id":1,
+      "city":"Capital of Somalia",
+      "anotherName":"Mogadishu & Xamar",
+      "population":2180000,
+      "mainSources":"Airport & and Port of Mogadishu",
+      "governor": "Omar Filish",
+      "numberOfDistrict": 16,
+      "milesSquare": 35,
+      
+      "disctricts": [
+          {
+        "Boondheere": 1,
+        "cityHall": 1,
+        "population": 136250,
+        "policeStation":2
+      },
+        {
+        "Cabdicasiis": 2,
+        "cityHall": 3,
+        "population": 136250,
+        "policeStation":2
+      },
+      {
+        "Deyniile": 3,
+        "cityHall": 1,
+        "population": 136250,
+        "policeStation":1
+      }
+    
+    ]
+      
+      ,
+      "districtNames":"Boondheere, Cabdicasiis, Deyniile, Dharkenley, Hodan, Howlwadaag, Hilwaa, Kaxda, Kaaraan, Shibis, Shangaani, Waaberi, Wadajir, Warta-nabadda, Xamarjajab, Xamarweyne, Yaaqshiid"
+
+
+  },
+  "hirshabelle": {
+      "id":2
+
+  },
+  "koonfur-galbeed": {},
+  "jubaland": {},
+  "galmudug": {},
+  "putland": {},
+  "somaliland": {}
+}
+]}
