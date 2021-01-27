@@ -1,10 +1,11 @@
-{"states": [{
+{"states": [
+  {
   "banadir": {
       "id":1,
       "city":"Capital of Somalia",
-      "anotherName":"Mogadishu & Xamar",
-      "population":2180000,
-      "mainSources":"Airport & and Port of Mogadishu",
+      "anotherName":"Mogadishu or Xamar",
+      "population":3000000,
+      "mainSources":"Airport & Port of Mogadishu taxes",
       "governorName": "Omar Filish",
       "numberOfAirport":3,
       "numberOfDistrict": 16,
@@ -26,7 +27,7 @@
         "cityHall": 3,
         "population": 136250,
         "policeStation":2,
-        "cityMayor":"Ali Dooli"
+        "cityMayor":"Ali Doli"
       },
       {
         "id":3,
@@ -84,7 +85,7 @@
       "anotherName":"Samoreeb",
       "population":15000000,
       "mainSources":"Farm & Livestock",
-      "governorName": "Axmad Abdi Qoor Qoor",
+      "governorName": "Axmad Abdi QoorQoor",
       "numberOfAirport":1,
       "numberOfDistrict": 4,
       "numberOfBeach":0,
@@ -92,8 +93,8 @@
   },
   "putland": {
       "id":6,
-      "city":"Dhuusomareeb",
-      "anotherName":"Samoreeb",
+      "city":"Galkacayo",
+      "anotherName":null,
       "population":4000000,
       "mainSources":"Farm & Livestock",
       "governorName": "Siciid Abdullahi Dini",
@@ -108,7 +109,7 @@
       "anotherName":null,
       "population":5000000,
       "mainSources":"Farm & Livestock",
-      "governorName": "Muse Bixi Abdi",
+      "governorName": "Muse Bihi Abdi",
       "numberOfAirport":3,
       "numberOfDistrict": 10,
       "numberOfBeach":0,

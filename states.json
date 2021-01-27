@@ -1,49 +1,117 @@
-{"states": [{
-  "banadir": {
-      "id":1,
-      "city":"Capital of Somalia",
-      "anotherName":"Mogadishu & Xamar",
-      "population":2180000,
-      "mainSources":"Airport & and Port of Mogadishu",
-      "governor": "Omar Filish",
-      "numberOfDistrict": 16,
-      "milesSquare": 35,
-      
-      "disctricts": [
+{
+  "states": [
+    {
+      "banadir": {
+        "id": 1,
+        "city": "Capital of Somalia",
+        "anotherName": "Mogadishu or Xamar",
+        "population": 3000000,
+        "mainSources": "Airport & Port of Mogadishu taxes",
+        "governorName": "Omar Filish",
+        "numberOfAirport": 3,
+        "numberOfDistrict": 16,
+        "numberOfBeach": 2,
+        "milesSquare": 35,
+        "districts": [
           {
-        "Boondheere": 1,
-        "cityHall": 1,
-        "population": 136250,
-        "policeStation":2
+            "id": 1,
+            "Boondheere": 1,
+            "cityHall": 1,
+            "population": 136250,
+            "policeStation": 2,
+            "cityMayor": "Xusein Ali"
+          },
+          {
+            "id": 2,
+            "Cabdicasiis": 2,
+            "cityHall": 3,
+            "population": 136250,
+            "policeStation": 2,
+            "cityMayor": "Ali Doli"
+          },
+          {
+            "id": 3,
+            "Deyniile": 3,
+            "cityHall": 1,
+            "population": 136250,
+            "policeStation": 1,
+            "cityMayor": "Yusuf Muse"
+          }
+        ],
+        "districtNames": "Boondheere, Cabdicasiis, Deyniile, Dharkenley, Hodan, Howlwadaag, Hilwaa, Kaxda, Kaaraan, Shibis, Shangaani, Waaberi, Wadajir, Warta-nabadda, Xamarjajab, Xamarweyne, Yaaqshiid"
       },
-        {
-        "Cabdicasiis": 2,
-        "cityHall": 3,
-        "population": 136250,
-        "policeStation":2
+      "hirshabelle": {
+        "id": 2,
+        "city": "Jowhar",
+        "anotherName": "Jowhar  Cade",
+        "population": 50000,
+        "mainSources": "Farm & Livestock",
+        "governorName": "Ali Guudlaawe",
+        "numberOfAirport": 1,
+        "numberOfDistrict": 4,
+        "numberOfBeach": 2,
+        "milesSquare": null
       },
-      {
-        "Deyniile": 3,
-        "cityHall": 1,
-        "population": 136250,
-        "policeStation":1
+      "koonfur-galbeed": {
+        "id": 3,
+        "city": "Baydhabo",
+        "anotherName": "Baydhabo Jannay",
+        "population": 50000,
+        "mainSources": "Farm & Livestock",
+        "governorName": "Abdiaziz Laftagreen",
+        "numberOfAirport": 1,
+        "numberOfDistrict": 4,
+        "numberOfBeach": 0,
+        "milesSquare": null
+      },
+      "jubaland": {
+        "id": 4,
+        "city": "Kismayo",
+        "anotherName": "Kismayo & Kistaada",
+        "population": 15000000,
+        "mainSources": "Farm & Livestock",
+        "governorName": "Axmad Madoobe",
+        "numberOfAirport": 1,
+        "numberOfDistrict": 5,
+        "numberOfBeach": 1,
+        "milesSquare": null
+      },
+      "galmudug": {
+        "id": 5,
+        "city": "Dhuusomareeb",
+        "anotherName": "Samoreeb",
+        "population": 15000000,
+        "mainSources": "Farm & Livestock",
+        "governorName": "Axmad Abdi QoorQoor",
+        "numberOfAirport": 1,
+        "numberOfDistrict": 4,
+        "numberOfBeach": 0,
+        "milesSquare": null
+      },
+      "putland": {
+        "id": 6,
+        "city": "Galkacayo",
+        "anotherName": null,
+        "population": 4000000,
+        "mainSources": "Farm & Livestock",
+        "governorName": "Siciid Abdullahi Dini",
+        "numberOfAirport": 2,
+        "numberOfDistrict": 8,
+        "numberOfBeach": 2,
+        "milesSquare": null
+      },
+      "somaliland": {
+        "id": 7,
+        "city": "Hargaysa",
+        "anotherName": null,
+        "population": 5000000,
+        "mainSources": "Farm & Livestock",
+        "governorName": "Muse Bihi Abdi",
+        "numberOfAirport": 3,
+        "numberOfDistrict": 10,
+        "numberOfBeach": 0,
+        "milesSquare": null
       }
-    
-    ]
-      
-      ,
-      "districtNames":"Boondheere, Cabdicasiis, Deyniile, Dharkenley, Hodan, Howlwadaag, Hilwaa, Kaxda, Kaaraan, Shibis, Shangaani, Waaberi, Wadajir, Warta-nabadda, Xamarjajab, Xamarweyne, Yaaqshiid"
-
-
-  },
-  "hirshabelle": {
-      "id":2
-
-  },
-  "koonfur-galbeed": {},
-  "jubaland": {},
-  "galmudug": {},
-  "putland": {},
-  "somaliland": {}
+    }
+  ]
 }
-]}

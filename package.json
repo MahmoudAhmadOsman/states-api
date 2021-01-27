@@ -1,0 +1,20 @@
+{
+  "name": "states-api",
+  "version": "1.0.0",
+  "description": "Custom states api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahmoudAhmadOsman/states-api"
+  },
+  "author": "Mahmoud Osman",
+  "license": "MIT",
+  "homepage": "https://github.com/MahmoudAhmadOsman/states-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
