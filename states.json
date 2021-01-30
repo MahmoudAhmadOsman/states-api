@@ -115,108 +115,114 @@
     }
   ]
 }
-
-
-//Maah Maahto
+/*============== Maah Maahto ============== */
+{
+  "maahmaahto": [
+    {
+      "id": 1,
+      "maahmaahyo": "Awrba awrka ka horreeya ayuu horraan-qaadkiisa leeyahay.",
+      "qoraa": "Maahmaahyo Soamaali"
+    }
 
 {
-	"maahmaahto":[
-	{
-    "maahmaahyo": "Awrba awrka ka horreeya ayuu horraan-qaadkiisa leeyahay.",
-    "qoraa": "Maahmaahyo Soamaali"
-}
+      "id": 2,
+      "maahmaahyo": "Alle watow wehel uma baahna.",
+      "qoraa": "Maahmaahyo Soamaali"
+    }
 
 {
-"maahmaahyo": "Alle watow wehel uma baahna.",
-    "qoraa": "Maahmaahyo Soamaali"
-}
+      "id": 3,
+      "maahmaahyo": "Ama faro dufan leh ku qaad ama faro dac leh.",
+      "qoraa": "Maahmaahyo Soamaali"
+    }
 
 {
-"maahmaahyo": "Ama faro dufan leh ku qaad ama faro dac leh.",
-    "qoraa": "Maahmaahyo Soamaali"
-}
+      "id": 4,
+      "maahmaahyo": "Aroos lagama raago, lagumana raago.",
+      "qoraa": "Maahmaahyo Soamaali"
+    }
 
 {
-"maahmaahyo": "Aroos lagama raago, lagumana raago.",
-    "qoraa": "Maahmaahyo Soamaali"
-}
+      "id": 5,
+      "maahmaahyo": "Arrad waa dan uskagse waa doqonniino.",
+      "qoraa": "Maahmaahyo Soamaali"
+    }
 
 {
-"maahmaahyo": "Arrad waa dan uskagse waa doqonniino.",
-    "qoraa": "Maahmaahyo Soamaali"
-}
+      "id": 6,
+      "maahmaahyo": "Arrad waa dan uskagse waa doqonniino.",
+      "qoraa": "Maahmaahyo Soamaali"
+    }
 
 {
-"maahmaahyo": "Arrad waa dan uskagse waa doqonniino.",
-    "qoraa": "Maahmaahyo Soamaali"
-}
+      "id": 7,
+      "maahmaahyo": "Arrad waa dan uskagse waa doqonniino.",
+      "qoraa": "Maahmaahyo Soamaali"
+    }
+{
+      "id": 8,
+      "maahmaahyo": "Arrimo rag waa mudacyo afkood.",
+      "qoraa": "Maahmaahyo Soamaali"
+    }
 
 {
-"maahmaahyo": "Arrad waa dan uskagse waa doqonniino.",
-    "qoraa": "Maahmaahyo Soamaali"
-}
-{
-"maahmaahyo": "Arrimo rag waa mudacyo afkood.",
-    "qoraa": "Maahmaahyo Soamaali"
-}
+      "id": 9,
+      "maahmaahyo": "Arrin aan sidii futo riyaad la feydin, ma fayoobaato.",
+      "qoraa": "Maahmaahyo Soamaali"
+    }
 
 {
-"maahmaahyo": "Arrin aan sidii futo riyaad la feydin, ma fayoobaato.",
-    "qoraa": "Maahmaahyo Soamaali"
-}
+      "id": 10,
+      "maahmaahyo": "Arrin aan sidii futo riyaad la feydin, ma fayoobaato.",
+      "qoraa": "Maahmaahyo Soamaali"
+    }
 
 {
-"maahmaahyo": "Arrin aan sidii futo riyaad la feydin, ma fayoobaato.",
-    "qoraa": "Maahmaahyo Soamaali"
-}
+      "id": 11,
+      "maahmaahyo": "Baareey guur, oo sixnigaagana la guur.",
+      "qoraa": "Maahmaahyo Soamaali"
+    }
 
 {
-"maahmaahyo": "Baareey guur, oo sixnigaagana la guur.",
-    "qoraa": "Maahmaahyo Soamaali"
-}
+      "id": 12,
+      "maahmaahyo": "Baddu waa isku dhadhan.",
+      "qoraa": "Maahmaahyo Soamaali"
+    }
 
 {
-"maahmaahyo": "Baddu waa isku dhadhan.",
-    "qoraa": "Maahmaahyo Soamaali"
-}
+      "id": 13,
+      "maahmaahyo": "Badhi mag ma laha.",
+      "qoraa": "Maahmaahyo Soamaali"
+    }
 
 {
-"maahmaahyo": "Badhi mag ma laha.",
-    "qoraa": "Maahmaahyo Soamaali"
-}
+      "id": 14,
+      "maahmaahyo": "Balaayo laba qad ma leh.",
+      "qoraa": "Maahmaahyo Soamaali"
+    }
 
 {
-"maahmaahyo": "Balaayo laba qad ma leh.",
-    "qoraa": "Maahmaahyo Soamaali"
-}
+      "id": 15,
+      "maahmaahyo": "Balaayo buulkaagaa laga galaa.",
+      "qoraa": "Maahmaahyo Soamaali"
+    }
 
 {
-"maahmaahyo": "Balaayo buulkaagaa laga galaa.",
-    "qoraa": "Maahmaahyo Soamaali"
-}
+      "id": 16,
+      "maahmaahyo": "Ballan habeenimo, jarmaado subax buu leeyahay.",
+      "qoraa": "Maahmaahyo Soamaali"
+    }
 
 {
-"maahmaahyo": "Ballan habeenimo, jarmaado subax buu leeyahay.",
-    "qoraa": "Maahmaahyo Soamaali"
-}
+      "id": 17,
+      "maahmaahyo": "Ballaysin bir ka adag.",
+      "qoraa": "Maahmaahyo Soamaali"
+    }
 
 {
-"maahmaahyo": "Ballaysin bir ka adag.",
-    "qoraa": "Maahmaahyo Soamaali"
+      "id": 18,
+      "maahmaahyo": "Ban waraabiyo gaala baqataba baraa la helaa..",
+      "qoraa": "Maahmaahyo Soamaali"
+    }
+  ]
 }
-
-{
-"maahmaahyo": "Ban waraabiyo gaala baqataba baraa la helaa..",
-    "qoraa": "Maahmaahyo Soamaali"
-}
-]
-
-}
-
-
-
-
-
-
-
-
