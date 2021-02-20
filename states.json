@@ -367,5 +367,213 @@
       "maahmaah": "Ban waraabiyo gaala baqataba baraa la helaa..",
       "qoraa": "Maahmaahyo Soamaali"
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Mens Sleeve Shirt",
+      "description": "H2H Mens Casual Premium Slim Fit T-Shirts Henley Long & 3/4 Sleeve Spring Summer Clothes.",
+      "availableSizes": [
+        "X",
+        "L",
+        "M",
+        "XL"
+      ],
+      "price": 27.34,
+      "image": "https://source.unsplash.com/1600x900/?shirt",
+      "stars": [
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Pants",
+      "description": "Goodthreads Men's Skinny-Fit Washed Comfort Stretch Chino Pan. his chino is pre-washed for an easy-wearing. ",
+      "availableSizes": [
+        "X",
+        "L",
+        "M",
+        "XL"
+      ],
+      "price": 65.87,
+      "image": "https://source.unsplash.com/1600x900/?jeans",
+      "stars": [
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Hooded Jacket",
+      "description": "Essentials Men's Standard Full-Zip Hooded Fleece Sweatshirt. His wardrobe-staple sweatshirt features a zip-up front with split pocket. ",
+      "availableSizes": [
+        "X",
+        "L",
+        "M",
+        "XL"
+      ],
+      "price": 85.94,
+      "image": "https://source.unsplash.com/1600x900/?jaket",
+      "stars": [
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Skirts",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna. Morbi a bibendum metus.  ",
+      "availableSizes": [
+        "X",
+        "L",
+        "M",
+        "XL"
+      ],
+      "price": 26.13,
+      "image": "https://source.unsplash.com/1600x900/?skirt",
+      "stars": [
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Dell Computer",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna.  ",
+      "availableSizes": [
+        "L",
+        "M"
+      ],
+      "price": 599.99,
+      "image": "https://source.unsplash.com/1600x900/?computer",
+      "stars": [
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Toshipa Laptop",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna. ",
+      "availableSizes": [
+        "M"
+      ],
+      "price": 699.95,
+      "image": "https://source.unsplash.com/1600x900/?computer",
+      "stars": [
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Nike Sports Shoes",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna.  ",
+      "availableSizes": [
+        "M",
+        "S",
+        "L"
+      ],
+      "price": 79.95,
+      "image": "https://source.unsplash.com/1600x900/?nike",
+      "stars": [
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "iPhone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna.",
+      "availableSizes": [
+        "M",
+        "L"
+      ],
+      "price": 579.95,
+      "image": "https://source.unsplash.com/1600x900/?iPhone",
+      "stars": [
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "JavaScript",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna.  ",
+      "availableSizes": [
+        "S",
+        "M"
+      ],
+      "price": 86.95,
+      "image": "https://source.unsplash.com/1600x900/?javascript",
+      "stars": [
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "React js",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna.  ",
+      "availableSizes": [
+        "S",
+        "L"
+      ],
+      "price": 106.95,
+      "image": "https://source.unsplash.com/1600x900/?html",
+      "stars": [
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "PHP",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna.  ",
+      "availableSizes": [
+        "S",
+        "M"
+      ],
+      "price": 106.95,
+      "image": "https://source.unsplash.com/1600x900/?php",
+      "stars": [
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ]
+    }
   ]
 }
