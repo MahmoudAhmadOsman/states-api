@@ -15,7 +15,7 @@
         "districts": [
           {
             "id": 1,
-            "Boondheere": 1,
+            "name": "Boondheere",
             "cityHall": 1,
             "population": 136250,
             "policeStation": 2,
@@ -23,7 +23,7 @@
           },
           {
             "id": 2,
-            "Cabdicasiis": 2,
+            "name": "Cabdicasiis",
             "cityHall": 3,
             "population": 136250,
             "policeStation": 2,
@@ -31,7 +31,7 @@
           },
           {
             "id": 3,
-            "Deyniile": 3,
+            "name": "Dayniile",
             "cityHall": 1,
             "population": 136250,
             "policeStation": 1,
