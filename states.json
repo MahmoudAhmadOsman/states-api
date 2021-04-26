@@ -25,7 +25,7 @@
             "id": 2,
             "name": "Cabdicasiis",
             "cityHall": 3,
-            "population": 136250,
+            "population": 166250,
             "policeStation": 2,
             "cityMayor": "Ali Doli"
           },
@@ -33,7 +33,7 @@
             "id": 3,
             "name": "Dayniile",
             "cityHall": 1,
-            "population": 136250,
+            "population": 17642,
             "policeStation": 1,
             "cityMayor": "Yusuf Muse"
           },
@@ -41,7 +41,7 @@
             "id": 4,
             "name": "Dharkenley",
             "cityHall": 2,
-            "population": 143250,
+            "population": 14367,
             "policeStation": 4,
             "cityMayor": "Hassan Abdullahi"
           },
@@ -49,7 +49,7 @@
             "id": 5,
             "name": "Hodan",
             "cityHall": 1,
-            "population": 12250,
+            "population": 18263,
             "policeStation": 2,
             "cityMayor": "Mohamad Yahye"
           },
@@ -57,7 +57,7 @@
             "id": 6,
             "name": "Howlwadaag",
             "cityHall": 1,
-            "population": 11250,
+            "population": 15212,
             "policeStation": 2,
             "cityMayor": "Mohamad Yonis"
           },
@@ -65,7 +65,7 @@
             "id": 7,
             "name": "Hilwaa",
             "cityHall": 1,
-            "population": 7250,
+            "population": 27250,
             "policeStation": 2,
             "cityMayor": "Osman Jeylani"
           },
@@ -73,7 +73,7 @@
             "id": 8,
             "name": "Kaxda",
             "cityHall": 1,
-            "population": 4550,
+            "population": 14530,
             "policeStation": 2,
             "cityMayor": "Abdullhi Abdi"
           },
@@ -81,7 +81,7 @@
             "id": 9,
             "name": "Kaaraan",
             "cityHall": 2,
-            "population": 84250,
+            "population": 184265,
             "policeStation": 2,
             "cityMayor": "Mohamad Muse"
           },
@@ -89,7 +89,7 @@
             "id": 10,
             "name": "Shibis",
             "cityHall": 1,
-            "population": 62350,
+            "population": 162350,
             "policeStation": 2,
             "cityMayor": "Malaq Mostafa"
           },
@@ -97,7 +97,7 @@
             "id": 11,
             "name": "Shangaani",
             "cityHall": 1,
-            "population": 32250,
+            "population": 132262,
             "policeStation": 2,
             "cityMayor": "Nasro Camir"
           },
@@ -113,7 +113,7 @@
             "id": 13,
             "name": "Wadajir",
             "cityHall": 1,
-            "population": 45250,
+            "population": 145250,
             "policeStation": 2,
             "cityMayor": "Dahir Ali"
           },
@@ -121,7 +121,7 @@
             "id": 14,
             "name": "Warta-nabadda",
             "cityHall": 1,
-            "population": 16250,
+            "population": 16284,
             "policeStation": 2,
             "cityMayor": "Fadumo Yonis"
           },
@@ -129,7 +129,7 @@
             "id": 15,
             "name": "Xamarjajab",
             "cityHall": 1,
-            "population": 17250,
+            "population": 17298,
             "policeStation": 2,
             "cityMayor": "Mumin Biixi"
           },
@@ -137,7 +137,7 @@
             "id": 16,
             "name": "Xamarweyne",
             "cityHall": 1,
-            "population": 13350,
+            "population": 19350,
             "policeStation": 2,
             "cityMayor": "Nasro Baseeti"
           },
@@ -145,7 +145,7 @@
             "id": 17,
             "name": "Yaaqshiid",
             "cityHall": 1,
-            "population": 10950,
+            "population": 180950,
             "policeStation": 2,
             "cityMayor": "Afrax Omaar"
           }
