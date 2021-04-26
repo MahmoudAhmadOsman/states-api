@@ -41,7 +41,7 @@
             "id": 4,
             "name": "Dharkenley",
             "cityHall": 2,
-            "population": 14367,
+            "population": 148367,
             "policeStation": 4,
             "cityMayor": "Hassan Abdullahi"
           },
@@ -121,7 +121,7 @@
             "id": 14,
             "name": "Warta-nabadda",
             "cityHall": 1,
-            "population": 16284,
+            "population": 165284,
             "policeStation": 2,
             "cityMayor": "Fadumo Yonis"
           },
@@ -137,7 +137,7 @@
             "id": 16,
             "name": "Xamarweyne",
             "cityHall": 1,
-            "population": 19350,
+            "population": 169350,
             "policeStation": 2,
             "cityMayor": "Nasro Baseeti"
           },
