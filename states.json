@@ -20,7 +20,7 @@
             "population": 136250,
             "policeStation": 3,
             "cityMayor": "Xusein Ali",
-            "budget":6874
+            "budget":61874
           },
           {
             "id": 2,
@@ -29,7 +29,7 @@
             "population": 166250,
             "policeStation": 3,
             "cityMayor": "Ali Doli",
-            "budget":9874
+            "budget":91874
           },
           {
             "id": 3,
@@ -37,6 +37,7 @@
             "cityHall": 1,
             "population": 17642,
             "policeStation": 2,
+             "budget":72869,
             "cityMayor": "Yusuf Muse"
           },
           {
@@ -45,6 +46,7 @@
             "cityHall": 1,
             "population": 148367,
             "policeStation": 4,
+            "budget":132400,
             "cityMayor": "Hassan Abdullahi"
           },
           {
@@ -53,6 +55,7 @@
             "cityHall": 1,
             "population": 18263,
             "policeStation": 2,
+            "budget":145621,
             "cityMayor": "Mohamad Yahye"
           },
             {
@@ -61,6 +64,7 @@
             "cityHall": 1,
             "population": 15212,
             "policeStation": 2,
+              "budget":132425,
             "cityMayor": "Mohamad Yonis"
           },
             {
@@ -69,6 +73,7 @@
             "cityHall": 1,
             "population": 27250,
             "policeStation": 2,
+              "budget":187654,
             "cityMayor": "Osman Jeylani"
           },
             {
@@ -77,6 +82,7 @@
             "cityHall": 1,
             "population": 14530,
             "policeStation": 2,
+              "budget":168784,
             "cityMayor": "Abdullhi Abdi"
           },
             {
@@ -85,6 +91,7 @@
             "cityHall": 1,
             "population": 184265,
             "policeStation": 4,
+              "budget":148478,
             "cityMayor": "Mohamad Muse"
           },
             {
@@ -93,6 +100,7 @@
             "cityHall": 1,
             "population": 162350,
             "policeStation": 4,
+              "budget":164784,
             "cityMayor": "Malaq Mostafa"
           },
             {
@@ -101,6 +109,7 @@
             "cityHall": 1,
             "population": 132262,
             "policeStation": 4,
+              "budget":123456,
             "cityMayor": "Nasro Camir"
           },
             {
@@ -109,6 +118,7 @@
             "cityHall": 1,
             "population": 28250,
             "policeStation": 2,
+              "budget":200465,
             "cityMayor": "Jamac Barre"
           },
             {
@@ -117,6 +127,7 @@
             "cityHall": 1,
             "population": 145250,
             "policeStation": 3,
+              "budget":124354,
             "cityMayor": "Dahir Ali"
           },
             {
@@ -125,6 +136,7 @@
             "cityHall": 1,
             "population": 165284,
             "policeStation": 3,
+              "budget":178542,
             "cityMayor": "Fadumo Yonis"
           },
             {
@@ -133,6 +145,7 @@
             "cityHall": 1,
             "population": 17298,
             "policeStation": 3,
+              "budget":145678,
             "cityMayor": "Mumin Biixi"
           },
             {
@@ -141,6 +154,7 @@
             "cityHall": 1,
             "population": 169350,
             "policeStation": 3,
+              "budget":187645,
             "cityMayor": "Nasro Baseeti"
           },
             {
@@ -149,6 +163,7 @@
             "cityHall": 1,
             "population": 180950,
             "policeStation": 3,
+              "budget":193454,
             "cityMayor": "Afrax Omaar"
           }
         
