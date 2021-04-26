@@ -36,7 +36,23 @@
             "population": 136250,
             "policeStation": 1,
             "cityMayor": "Yusuf Muse"
-          }
+          },
+          {
+            "id": 4,
+            "name": "Madina",
+            "cityHall": 2,
+            "population": 143250,
+            "policeStation": 4,
+            "cityMayor": "Hassan Abdullahi"
+          },
+          {
+            "id": 5,
+            "name": "Hodan",
+            "cityHall": 1,
+            "population": 12250,
+            "policeStation": 2,
+            "cityMayor": "Mohamad Yahye"
+          },
         ],
         "districtNames": "Boondheere, Cabdicasiis, Deyniile, Dharkenley, Hodan, Howlwadaag, Hilwaa, Kaxda, Kaaraan, Shibis, Shangaani, Waaberi, Wadajir, Warta-nabadda, Xamarjajab, Xamarweyne, Yaaqshiid"
       },
