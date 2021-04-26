@@ -18,15 +18,15 @@
             "name": "Boondheere",
             "cityHall": 1,
             "population": 136250,
-            "policeStation": 2,
+            "policeStation": 3,
             "cityMayor": "Xusein Ali"
           },
           {
             "id": 2,
             "name": "Cabdicasiis",
-            "cityHall": 3,
+            "cityHall": 1,
             "population": 166250,
-            "policeStation": 2,
+            "policeStation": 3,
             "cityMayor": "Ali Doli"
           },
           {
@@ -34,13 +34,13 @@
             "name": "Dayniile",
             "cityHall": 1,
             "population": 17642,
-            "policeStation": 1,
+            "policeStation": 2,
             "cityMayor": "Yusuf Muse"
           },
           {
             "id": 4,
             "name": "Dharkenley",
-            "cityHall": 2,
+            "cityHall": 1,
             "population": 148367,
             "policeStation": 4,
             "cityMayor": "Hassan Abdullahi"
@@ -80,9 +80,9 @@
             {
             "id": 9,
             "name": "Kaaraan",
-            "cityHall": 2,
+            "cityHall": 1,
             "population": 184265,
-            "policeStation": 2,
+            "policeStation": 4,
             "cityMayor": "Mohamad Muse"
           },
             {
@@ -90,7 +90,7 @@
             "name": "Shibis",
             "cityHall": 1,
             "population": 162350,
-            "policeStation": 2,
+            "policeStation": 4,
             "cityMayor": "Malaq Mostafa"
           },
             {
@@ -98,7 +98,7 @@
             "name": "Shangaani",
             "cityHall": 1,
             "population": 132262,
-            "policeStation": 2,
+            "policeStation": 4,
             "cityMayor": "Nasro Camir"
           },
             {
@@ -114,7 +114,7 @@
             "name": "Wadajir",
             "cityHall": 1,
             "population": 145250,
-            "policeStation": 2,
+            "policeStation": 3,
             "cityMayor": "Dahir Ali"
           },
             {
@@ -122,7 +122,7 @@
             "name": "Warta-nabadda",
             "cityHall": 1,
             "population": 165284,
-            "policeStation": 2,
+            "policeStation": 3,
             "cityMayor": "Fadumo Yonis"
           },
             {
@@ -130,7 +130,7 @@
             "name": "Xamarjajab",
             "cityHall": 1,
             "population": 17298,
-            "policeStation": 2,
+            "policeStation": 3,
             "cityMayor": "Mumin Biixi"
           },
             {
@@ -138,7 +138,7 @@
             "name": "Xamarweyne",
             "cityHall": 1,
             "population": 169350,
-            "policeStation": 2,
+            "policeStation": 3,
             "cityMayor": "Nasro Baseeti"
           },
             {
@@ -146,7 +146,7 @@
             "name": "Yaaqshiid",
             "cityHall": 1,
             "population": 180950,
-            "policeStation": 2,
+            "policeStation": 3,
             "cityMayor": "Afrax Omaar"
           }
         
