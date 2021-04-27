@@ -174,11 +174,12 @@
         "id": 2,
         "city": "Jowhar",
         "anotherName": "Jowhar  Cade",
-        "population": 50000,
+        "population": 2500000,
         "mainSources": "Farm & Livestock",
         "governorName": "Ali Guudlaawe",
         "numberOfAirport": 1,
         "numberOfDistrict": 4,
+        "numberOfRivers":1,
         "numberOfBeach": 0,
         "budget":700654,
         "milesSquare": 25
