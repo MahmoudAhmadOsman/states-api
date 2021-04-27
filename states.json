@@ -11,7 +11,7 @@
         "numberOfAirport": 3,
         "numberOfDistrict": 16,
         "numberOfBeach": 2,
-        "milesSquare": 35,
+        "milesSquare": 65,
         "districts": [
           {
             "id": 1,
@@ -179,8 +179,9 @@
         "governorName": "Ali Guudlaawe",
         "numberOfAirport": 1,
         "numberOfDistrict": 4,
-        "numberOfBeach": 2,
-        "milesSquare": null
+        "numberOfBeach": 0,
+        "budget":700654,
+        "milesSquare": 25
       },
       "koonfur-galbeed": {
         "id": 3,
