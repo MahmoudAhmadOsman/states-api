@@ -53,7 +53,7 @@
             "id": 5,
             "name": "Hodan",
             "cityHall": 1,
-            "population": 18263,
+            "population": 168263,
             "policeStation": 2,
             "budget":145621,
             "cityMayor": "Mohamad Yahye"
@@ -71,7 +71,7 @@
             "id": 7,
             "name": "Hilwaa",
             "cityHall": 1,
-            "population": 27250,
+            "population": 127250,
             "policeStation": 2,
               "budget":187654,
             "cityMayor": "Osman Jeylani"
@@ -116,7 +116,7 @@
             "id": 12,
             "name": "Waaberi",
             "cityHall": 1,
-            "population": 28250,
+            "population": 128250,
             "policeStation": 2,
               "budget":200465,
             "cityMayor": "Jamac Barre"
@@ -190,26 +190,28 @@
          "stateName":"Koonfur Galbeed",
         "capitalCity": "Baraawe",
         "tempCity": "Baydhabo",
-        "population": 50000,
+        "population": 1550000,
         "mainSources": "Farm & Livestock",
         "governorName": "Abdiaziz Laftagreen",
         "numberOfAirport": 1,
         "numberOfDistrict": 4,
-        "numberOfBeach": 0,
-        "milesSquare": null
+        "numberOfBeach": 1,
+        "budget":602612,
+        "milesSquare": 28
       },
       "jubaland": {
         "id": 4,
          "stateName":"Jubaland",
-        "capitalCity": "Boalle",
+        "capitalCity": "Bo'alle",
         "tempCity": "Kismayo",
-        "population": 15000000,
+        "population": 35000000,
         "mainSources": "Farm & Livestock",
         "governorName": "Axmad Madoobe",
         "numberOfAirport": 1,
         "numberOfDistrict": 5,
         "numberOfBeach": 1,
-        "milesSquare": null
+        "budget":915663,
+        "milesSquare": 35
       },
       "galmudug": {
         "id": 5,
