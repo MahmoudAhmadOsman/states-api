@@ -35,7 +35,7 @@
             "id": 3,
             "name": "Dayniile",
             "cityHall": 1,
-            "population": 17642,
+            "population": 173642,
             "policeStation": 2,
              "budget":72869,
             "cityMayor": "Yusuf Muse"
@@ -62,7 +62,7 @@
             "id": 6,
             "name": "Howlwadaag",
             "cityHall": 1,
-            "population": 15212,
+            "population": 159212,
             "policeStation": 2,
               "budget":132425,
             "cityMayor": "Mohamad Yonis"
@@ -80,7 +80,7 @@
             "id": 8,
             "name": "Kaxda",
             "cityHall": 1,
-            "population": 14530,
+            "population": 58946,
             "policeStation": 2,
               "budget":168784,
             "cityMayor": "Abdullhi Abdi"
@@ -143,7 +143,7 @@
             "id": 15,
             "name": "Xamarjajab",
             "cityHall": 1,
-            "population": 17298,
+            "population": 157298,
             "policeStation": 3,
               "budget":145678,
             "cityMayor": "Mumin Biixi"
