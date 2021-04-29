@@ -179,10 +179,10 @@
         "mainSources": "Farm & Livestock",
         "governorName": "Ali Guudlaawe",
         "numberOfAirport": 1,
-        "numberOfDistrict": 4,
+        "numberOfDistrict": 12,
         "numberOfRivers":1,
-        "numberOfBeach": 0,
-        "budget":700654,
+        "numberOfBeach": 1,
+        "budget":720654,
         "milesSquare": 25
       },
       "koonfurGalbeed": {
@@ -194,8 +194,8 @@
         "mainSources": "Farm & Livestock",
         "governorName": "Abdiaziz Laftagreen",
         "numberOfAirport": 3,
-        "numberOfDistrict": 4,
-        "numberOfRivers":0,
+        "numberOfDistrict": 8,
+        "numberOfRivers": 0,
         "numberOfBeach": 1,
         "budget":602612,
         "milesSquare": 28
@@ -222,10 +222,11 @@
         "population": 15000000,
         "mainSources": "Farm & Livestock",
         "governorName": "Axmad Abdi QoorQoor",
-        "numberOfAirport": 1,
-        "numberOfDistrict": 4,
-        "numberOfBeach": 0,
-        "milesSquare": null
+        "numberOfAirport": 3,
+        "numberOfDistrict": 14,
+        "numberOfBeach": 2,
+        "budget":1215457,
+        "milesSquare": 27
       },
       "putland": {
         "id": 6,
