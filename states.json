@@ -182,7 +182,7 @@
         "numberOfDistrict": 12,
         "numberOfRivers":1,
         "numberOfBeach": 1,
-        "budget":720654,
+        "budget":8865455,
         "milesSquare": 25
       },
       "koonfurGalbeed": {
@@ -197,7 +197,7 @@
         "numberOfDistrict": 8,
         "numberOfRivers": 0,
         "numberOfBeach": 1,
-        "budget":602612,
+        "budget":7465460,
         "milesSquare": 28
       },
       "jubaland": {
@@ -212,7 +212,7 @@
         "numberOfDistrict": 15,
         "numberOfRivers":0,
         "numberOfBeach": 1,
-        "budget":915663,
+        "budget":11395411,
         "milesSquare": 35
       },
       "galmudug": {
@@ -227,7 +227,7 @@
         "numberOfDistrict": 14,
         "numberOfRivers":0,
         "numberOfBeach": 2,
-        "budget":1215457,
+        "budget":12345678,
         "milesSquare": 27
       },
       "putland": {
@@ -242,7 +242,7 @@
         "numberOfDistrict": 16,
         "numberOfRivers":0,
         "numberOfBeach": 4,
-        "budget":8280000,
+        "budget":14606541,
         "milesSquare": 23
       },
       "somaliland": {
