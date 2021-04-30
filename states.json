@@ -209,7 +209,8 @@
         "mainSources": "Farm & Livestock",
         "governorName": "Axmad Madoobe",
         "numberOfAirport": 1,
-        "numberOfDistrict": 5,
+        "numberOfDistrict": 15,
+        "numberOfRivers":0,
         "numberOfBeach": 1,
         "budget":915663,
         "milesSquare": 35
