@@ -208,10 +208,10 @@
         "population": 1250000,
         "mainSources": "Farm & Livestock",
         "governorName": "Axmad Madoobe",
-        "numberOfAirport": 1,
+        "numberOfAirport": 4,
         "numberOfDistrict": 15,
-        "numberOfRivers":0,
-        "numberOfBeach": 1,
+        "numberOfRivers":1,
+        "numberOfBeach": 2,
         "budget":11395411,
         "milesSquare": 35
       },
