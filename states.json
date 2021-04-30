@@ -238,22 +238,26 @@
         "mainSources": "Farm & Livestock",
         "governorName": "Siciid Abdullahi Dini",
         "numberOfAirport": 2,
-        "numberOfDistrict": 8,
-        "numberOfBeach": 2,
-        "milesSquare": null
+        "numberOfDistrict": 16,
+        "numberOfRivers":0,
+        "numberOfBeach": 4,
+        "budget":8280000,
+        "milesSquare": 23
       },
       "somaliland": {
         "id": 7,
         "stateName":"Somaliland",
         "capitalCity": "Hargeisa",
         "tempCity": null,
-        "population": 4650000,
+        "population": 4365400,
         "mainSources": "Farm & Livestock",
         "governorName": "Muse Bihi Abdi",
         "numberOfAirport": 3,
-        "numberOfDistrict": 10,
-        "numberOfBeach": 0,
-        "milesSquare": null
+        "numberOfDistrict": 21,
+         "numberOfRivers":0,
+        "numberOfBeach": 2,
+         "budget":160846202,
+        "milesSquare": 45
       }
     }
   ],
