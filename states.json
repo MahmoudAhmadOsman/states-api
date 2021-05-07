@@ -723,5 +723,63 @@
         "5"
       ]
     }
+  ],
+   "cars": [
+      {
+      "id": 1,
+      "name": "Toyota",
+      "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+      "avatar": "https://source.unsplash.com/1600x900/?Toyota",
+      "price": "4239.39",
+      "quantity": 904
+    },
+    {
+      "id": 2,
+      "name": "Hyundai",
+      "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+      "avatar": "https://source.unsplash.com/1600x900/?Hyundai",
+      "price": "3239.39",
+      "quantity": 331
+    },
+    {
+      "id": 3,
+      "name": "Porsche",
+      "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+      "avatar": "https://source.unsplash.com/1600x900/?Porsche",
+      "price": "1144.93",
+      "quantity": 141
+    },
+    {
+      "id": 4,
+      "name": "GMC",
+      "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+      "avatar": "https://source.unsplash.com/1600x900/?GMC",
+      "price": "1268.84",
+      "quantity": 185
+    },
+    {
+      "id": 5,
+      "name": "Lincoln",
+      "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+      "avatar": "https://source.unsplash.com/1600x900/?Lincoln",
+      "price": "2260.90",
+      "quantity": 189
+    },
+    {
+      "id": 6,
+      "name": "Toyota",
+      "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+      "avatar": "https://source.unsplash.com/1600x900/?Toyota",
+      "price": "3969.06",
+      "quantity": 551
+    },
+    {
+      "id": 7,
+      "name": "Mazda",
+      "description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+      "avatar": "https://source.unsplash.com/1600x900/?Mazda",
+      "price": "3785.71",
+      "quantity": 540
+    }
   ]
 }
