@@ -725,74 +725,114 @@
     }
   ],
    "cars": [
-     {
+    {
   "id": 1,
   "name": "Ferrari",
+  "model":"SV",
+  "make":"Ferrari",
+  "year":2008,
+  "mileage":161465,
   "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
-  "price": "2958.31",
+  "price": 21958.31,
   "avatar": "https://source.unsplash.com/1600x900/?Ferrari",
   "quantity": 143
 }, {
   "id": 2,
   "name": "Honda",
+   "model":"TS",
+  "make":"Honda",
+  "year":2012,
+  "mileage":106321,
   "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
-  "price": "3583.26",
+  "price": 23583.26,
   "avatar": "https://source.unsplash.com/1600x900/?Honda",
   "quantity": 150
 }, {
   "id": 3,
   "name": "Mercury",
+  "model":"SV",
+  "make":"Mercury",
+  "year":2020,
+  "mileage":64001,
   "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
-  "price": "1406.95",
+  "price": 18341.95,
   "avatar": "https://source.unsplash.com/1600x900/?Mercury",
   "quantity": 19
 }, {
   "id": 4,
   "name": "Mercedes-Benz",
+  "model":"SV",
+  "make":"Mercedes-Benz",
+  "year":2018,
+  "mileage":65748,
   "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-  "price": "2202.96",
+  "price": 24225.96,
   "avatar": "https://source.unsplash.com/1600x900/?Mercedes-Benz",
   "quantity": 17
 }, {
   "id": 5,
   "name": "Mercedes-Benz",
+  "model":"MZB2",
+  "make":"Mercedes-Benz",
+  "year":2019,
+  "mileage":65121,
   "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
-  "price": "414.56",
+  "price": 23418.56,
   "avatar": "https://source.unsplash.com/1600x900/?Mercedes-Benz",
   "quantity": 171
 }, {
   "id": 6,
   "name": "Mazda",
+  "model":"MTG",
+  "make":"Mazda",
+  "year":2017,
+  "mileage":12354,
   "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
-  "price": "1033.90",
+  "price": 18133.90,
   "avatar": "https://source.unsplash.com/1600x900/?Mazda",
   "quantity": 64
 }, {
   "id": 7,
   "name": "Land Rover",
+  "model":"LDS",
+  "make":"Land Rover",
+  "year":2018,
+  "mileage":168454,
   "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
-  "price": "1979.28",
+  "price": 19719.28,
   "avatar": "https://source.unsplash.com/1600x900/?Land Rover",
   "quantity": 25
 }, {
   "id": 8,
   "name": "Aston Martin",
+  "model":"ASVW",
+  "make":"Aston Martin",
+  "year":2014,
+  "mileage":124003,
   "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
-  "price": "1705.74",
+  "price": 7217.74,
   "avatar": "https://source.unsplash.com/1600x900/?Aston Martin",
   "quantity": 38
 }, {
   "id": 9,
   "name": "Nissan",
+  "model":"NTW",
+  "make":"Nissan",
+  "year":2016,
+  "mileage":92000,
   "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
-  "price": "3648.50",
+  "price": 13482.50,
   "avatar": "https://source.unsplash.com/1600x900/?Nissan",
   "quantity": 121
 }, {
   "id": 10,
   "name": "Chrysler",
+  "model":"MSV",
+  "make":"Chrysler",
+  "year":2012,
+  "mileage":92541,
   "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
-  "price": "776.16",
+  "price": 12489.16,
   "avatar": "https://source.unsplash.com/1600x900/?Chrysler",
   "quantity": 108
 }
